@@ -112,7 +112,11 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-/*General Styles-These are the global styles across the board
+
+
+
+/*General Styles-
+These are the global styles across the board
 We put them here because if I put a diff. style down below in the rest of my code it will override what's right here*/
 
 html {
@@ -153,7 +157,7 @@ img {
 }
 
 figure {
-
+  margin: 0;
 }
 
 address {
@@ -186,6 +190,14 @@ header .content-wrapper {
   align-items: center;
   flex-flow: row wrap;
   margin: 0;
+}
+
+header figure {
+  width: 60%;          /*Got this percentage by useing photoshop, and taking the width of logo which is 220 and dividing by total width of page which is 360*/ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
 }
 
 .header-divider {
@@ -255,6 +267,10 @@ footer .copyright {
 /*Hero Area*/
 
 .hero-area {
+  background: url(../img/jake-melara.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 500px;      /*The 500px is the height of this img*/
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
@@ -306,6 +322,9 @@ input[type=button] {
 /* Features */
 
 .features {
+  background: url(../img/rawpixel.jpg);
+  background-size: cover;
+  background-position: center;
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
@@ -552,7 +571,11 @@ input[type=button] {
   }
 
   .header-divider {
+    display: none;
+  }
 
+  header figure {
+    width: 30%;          /*Got this percentage by useing photoshop, and taking the width of logo which is 220 and dividing by total width of page which is 768*/ 
   }
 
 /*Hero Area*/
