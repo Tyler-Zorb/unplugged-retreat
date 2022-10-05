@@ -588,7 +588,7 @@ input[type=button] {
   /*General Styles (this width is from the left side of the unplugged logo to the right about the about in the nav
   (The margin first number is top which is the whole top section the logo and nav is in. the 0 is right*/
   .content-wrapper {
-    width: 640px;
+    max-width: 640px;
     margin: 100px 0;
   }
 
