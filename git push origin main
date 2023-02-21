@@ -1,0 +1,131 @@
+[33mcommit 86b80afd041b9b2fe11a5457a5870a5a53f5d93d[m[33m ([m[1;36mHEAD -> [m[1;32mgh-pages[m[33m)[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Fri Feb 17 10:12:10 2023 -0600
+
+    Contact fixes
+
+[33mcommit 1d17f5e1781bb1a444c83c786bc628a04ce315d4[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Fri Feb 17 09:28:40 2023 -0600
+
+    Nav links open in same tab
+
+[33mcommit afe9cc5d405d86c8083fe51da24d2bf052caa23b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/gh-pages[m[33m, [m[1;32mmain[m[33m)[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Wed Oct 5 11:32:33 2022 -0500
+
+    More CSS Updates
+
+[33mcommit c72c448c77dc38f6bd164b287b45bfd751b27a93[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Tue Oct 4 11:01:42 2022 -0500
+
+    Fixing CSS
+
+[33mcommit f3b909e51f401292beb8712905aca056ca003b06[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Thu Sep 22 09:31:44 2022 -0500
+
+    Added social media icons
+
+[33mcommit 17ad4f73577e8fe72d2cd8e539624ac7d95206c9[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Wed Sep 21 09:39:02 2022 -0500
+
+    Adding featured icons with font awesome
+
+[33mcommit 65c196cab1d1d3d646e0970cd94c898f702ead68[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Fri Sep 16 10:11:17 2022 -0500
+
+    Making the map responsive
+
+[33mcommit 1bb33c8ff07cabb84ff8b910198fca68999399aa[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Wed Sep 14 09:52:06 2022 -0500
+
+    Added Google Map
+
+[33mcommit 8a122fcb5042d3a0c49ec03e987cf5842e7fb072[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Tue Sep 13 16:00:31 2022 -0500
+
+    Responsify the images
+
+[33mcommit 115a3859f38075c8423fdd5c8c5a5c1866566b52[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Mon Sep 12 09:40:23 2022 -0500
+
+    Made images web ready
+
+[33mcommit cc0ed5f749ee28ffc94e86727dd2fc3fcf777c3f[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Fri Sep 9 09:56:00 2022 -0500
+
+    Adding Colors and more styles
+
+[33mcommit 3acc0672136725c3f63223fed222849221ddd46b[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Fri Sep 9 09:13:44 2022 -0500
+
+    Adding General Styles to CSS
+
+[33mcommit 62ffaffe2563385057276d73c636c41b8c1d5f2e[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Wed Sep 7 10:51:54 2022 -0500
+
+    Adding Desktop CSS
+
+[33mcommit 3eeb1ea51af891d6c6cb436f0a334796bd421691[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Tue Sep 6 14:53:28 2022 -0500
+
+    Tablet CSS additions
+
+[33mcommit 9abe55aead7f0205b9d0d783215c173b9db0cea5[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Thu Sep 1 10:05:00 2022 -0500
+
+    formatting-added padding and margins
+
+[33mcommit ebfad8ad880c177ce352f3081b295a6bea5ee373[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Wed Aug 31 13:08:24 2022 -0500
+
+    adding CSS shell
+
+[33mcommit ab8c2b706d6f4dcefb938bb9c896acd0b468df59[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Tue Aug 30 14:03:28 2022 -0500
+
+    faq page shell
+
+[33mcommit d54a95eaf1c24c04b76a1d5695aac5dae5c4e2d0[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Tue Aug 30 13:44:51 2022 -0500
+
+    About page shell
+
+[33mcommit eb1ed43c52757fcd1c4e798af5cd1ab823ba52b2[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Tue Aug 30 12:54:02 2022 -0500
+
+    finished homepage shell
+
+[33mcommit bcf98ce9dc0a53cdfaa7e5a9d73d5aa919bfd64c[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Tue Aug 30 10:59:50 2022 -0500
+
+    Built homepage shell
+
+[33mcommit ca0be12078184fd84a1bae53db671026adc31a10[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Fri Aug 26 10:06:59 2022 -0500
+
+    updating links on about and faq
+
+[33mcommit e9b0f36872f9898a1d81ab9cac05c5e329b4ea81[m
+Author: Tyler M <92123605+Tyler-Zorb@users.noreply.github.com>
+Date:   Fri Aug 26 09:59:58 2022 -0500
+
+    Starting the project
